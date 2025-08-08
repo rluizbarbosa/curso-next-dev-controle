@@ -8,7 +8,7 @@ Esse projeto foi desenvolvido realizando o Curso de NextJS, é um projeto de exe
 
 ### Link do projeto Publicado
 
-[Projeto publicado](https://curso-next-dev-controle.vercel.app/)
+[Projeto publicado](https://curso-next-dev-controle-qdaf.vercel.app/)
 
 
 ### Siga-me nas redes Sociais
